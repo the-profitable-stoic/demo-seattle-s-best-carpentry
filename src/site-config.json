@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Seattle's Best Carpentry",
+    "phone": "+12063392813",
+    "category": "carpenter",
+    "city": "Seattle",
+    "state": "WA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Seattle's Carpentry Experts",
+      "heroSubline": "Craftsmanship built to last. Serving Seattle and the Eastside with pride and precision for over a decade.",
+      "aboutTitle": "Built on Quality, Rooted in Seattle",
+      "aboutText": [
+        "Seattle's Best Carpentry started with a simple goal: provide unparalleled carpentry services to our neighbors. Frustrated with the lack of reliable, skilled carpenters in the area, we set out to build a company that homeowners could trust.",
+        "We approach every project, big or small, with the same dedication to quality and meticulous attention to detail. We use only the finest materials and time-tested techniques to ensure lasting results that stand up to Seattle's challenging climate.",
+        "We're deeply invested in the Seattle community. We source materials locally whenever possible and actively participate in neighborhood revitalization projects. Our commitment extends beyond carpentry; we're building a better Seattle, one project at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Years of experience and a commitment to quality ensures every project is built to last."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Seattle's unique architectural styles and climate challenges, providing tailored solutions."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No surprises. We provide detailed, upfront estimates and maintain open communication throughout the project."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We arrive on time, complete projects efficiently, and leave your property clean and tidy."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free consultation and discover the possibilities for your Seattle home."
+    },
+    "services": [
+      {
+        "slug": "custom-decks-patios",
+        "name": "Custom Decks & Patios",
+        "shortDescription": "Elevate your outdoor living space with a custom-designed deck or patio.",
+        "description": "Seattle's damp climate demands decks and patios built to endure. We specialize in crafting outdoor spaces that withstand the elements while enhancing your home's beauty and functionality. From initial design to final construction, we handle every aspect of your project. We work with a variety of materials, including durable hardwoods, composite decking, and weather-resistant cedar, ensuring your deck or patio remains beautiful for years to come.\n\nOur design process incorporates your vision and the unique characteristics of your property. Whether you envision a sprawling entertainment space, a cozy reading nook, or a multi-level deck with built-in seating, we can bring your ideas to life. We consider factors such as sun exposure, drainage, and privacy to create a space that is both aesthetically pleasing and functional.\n\nBeyond construction, we also offer deck and patio repair and maintenance services. From replacing damaged boards to applying protective sealants, we can help you keep your outdoor space in top condition. Protect your investment with Seattle's Best Carpentry.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and site conditions to create a custom design.",
+          "Step 2: Material Selection – We help you choose the best materials for durability, aesthetics, and budget.",
+          "Step 3: Construction – Our skilled carpenters build your deck or patio with precision and care.",
+          "Step 4: Finishing Touches – We add railings, stairs, and other features to complete your outdoor space."
+        ],
+        "benefits": [
+          "Enhanced Outdoor Living Space",
+          "Increased Home Value",
+          "Durable and Weather-Resistant Construction",
+          "Customized Design to Fit Your Needs"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for decks in Seattle?",
+            "answer": "Western Red Cedar is a popular choice due to its natural resistance to rot and insects. Composite decking is also a great option for low maintenance and durability."
+          },
+          {
+            "question": "How long does it take to build a custom deck?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but most decks can be completed in 1-3 weeks."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "In most cases, a permit is required for decks and patios over a certain size. We can assist you with the permitting process."
+          }
+        ]
+      },
+      {
+        "slug": "kitchen-bath-remodels",
+        "name": "Kitchen & Bath Remodels",
+        "shortDescription": "Transform your kitchen and bathrooms into stunning and functional spaces.",
+        "description": "Seattle homes, especially those older Craftsman styles in neighborhoods like Ballard and Queen Anne, often have kitchens and bathrooms that are outdated or poorly designed. We specialize in remodeling these spaces to improve functionality, aesthetics, and overall value. From minor updates to complete overhauls, we handle every aspect of your kitchen or bath remodel.\n\nOur design process begins with a thorough consultation to understand your needs, preferences, and budget. We then create a custom design that maximizes space, incorporates modern amenities, and reflects your personal style. We work with a variety of materials, including custom cabinetry, granite countertops, and energy-efficient appliances, ensuring your new kitchen or bath is both beautiful and functional.\n\nBeyond design and construction, we also handle all necessary plumbing, electrical, and ventilation work. We ensure that your remodel meets all building codes and regulations, providing you with peace of mind. We understand the challenges of remodeling in older Seattle homes, such as dealing with uneven walls and floors. We have the experience and expertise to overcome these challenges and deliver exceptional results. From Capitol Hill condos to Queen Anne Victorians, Seattle's Best Carpentry remodels kitchens and bathrooms to perfection.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and needs to create a custom design.",
+          "Step 2: Demolition and Preparation – We carefully remove existing fixtures and prepare the space for remodeling.",
+          "Step 3: Installation – We install new cabinetry, countertops, appliances, and fixtures with precision and care.",
+          "Step 4: Finishing Touches – We add lighting, paint, and other details to complete your kitchen or bath remodel."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality and Aesthetics",
+          "Customized Design to Fit Your Needs",
+          "Energy-Efficient Upgrades"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen or bath remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most remodels can be completed in 4-8 weeks."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "It depends on the extent of the remodel. We can discuss the best options for minimizing disruption to your daily life."
+          },
+          {
+            "question": "How can I minimize costs during a remodel?",
+            "answer": "Careful planning, material selection, and sticking to the design plan can help minimize costs. We can provide guidance and recommendations."
+          }
+        ]
+      },
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Crafting custom cabinets for kitchens, bathrooms, and built-in storage solutions.",
+        "description": "Tired of cookie-cutter cabinets that don't fit your space or style? Seattle's Best Carpentry specializes in crafting custom cabinetry that maximizes storage, enhances aesthetics, and reflects your unique taste. We design, build, and install custom cabinets for kitchens, bathrooms, home offices, and any other space where you need functional and beautiful storage.\n\nOur process begins with a detailed consultation to understand your needs and preferences. We then create a custom design that optimizes space, incorporates your desired features, and complements your home's architectural style. We work with a variety of materials, including hardwoods, plywood, and laminates, ensuring your cabinets are both durable and visually appealing.\n\nWe use time-tested woodworking techniques to ensure that our cabinets are built to last. From dovetail joints to soft-close hinges, we pay attention to every detail. We also offer a variety of finishes, including paint, stain, and lacquer, to match your existing décor. Whether you're looking for a modern, minimalist design or a classic, traditional look, we can create custom cabinets that perfectly suit your style. From Fremont bungalows to modern condos, Seattle's Best Carpentry creates custom cabinetry to perfection.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs, preferences, and budget to create a custom design.",
+          "Step 2: Material Selection – We help you choose the best materials for durability, aesthetics, and budget.",
+          "Step 3: Construction – Our skilled cabinet makers build your cabinets with precision and care.",
+          "Step 4: Installation – We install your cabinets with attention to detail and ensure a perfect fit."
+        ],
+        "benefits": [
+          "Customized Design to Fit Your Needs",
+          "Maximized Storage Space",
+          "Enhanced Aesthetics",
+          "Durable and Long-Lasting Construction"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood are best for custom cabinets?",
+            "answer": "Hardwoods like maple, cherry, and oak are popular choices for their durability and beauty. Plywood is also a good option for cabinet boxes."
+          },
+          {
+            "question": "How long does it take to build custom cabinets?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but most cabinet projects can be completed in 4-6 weeks."
+          },
+          {
+            "question": "Can you match existing cabinet styles?",
+            "answer": "Yes, we can match existing cabinet styles and finishes to create a seamless look."
+          }
+        ]
+      },
+      {
+        "slug": "structural-repairs",
+        "name": "Structural Repairs",
+        "shortDescription": "Addressing structural issues in Seattle homes, from foundation to roof.",
+        "description": "Seattle's weather and seismic activity can take a toll on homes, leading to structural issues that require expert attention. We specialize in diagnosing and repairing structural problems, ensuring the safety and stability of your home. From foundation repairs to roof replacements, we have the experience and expertise to handle any structural challenge. We understand the unique challenges of working on older Seattle homes, such as dealing with rot, settling, and earthquake damage.\n\nOur process begins with a thorough inspection to identify the source of the problem and develop a comprehensive repair plan. We use advanced diagnostic tools and techniques to accurately assess the extent of the damage. We then implement proven repair methods to restore the structural integrity of your home. We work with a variety of materials, including concrete, steel, and wood, ensuring that our repairs are durable and long-lasting.\n\nWe also handle all necessary permitting and inspections, providing you with peace of mind. We understand the importance of addressing structural issues promptly to prevent further damage and ensure the safety of your family. From West Seattle bungalows to Capitol Hill apartments, Seattle's Best Carpentry repairs structures to perfection.",
+        "process": [
+          "Step 1: Inspection and Diagnosis – We thoroughly inspect your home to identify structural issues.",
+          "Step 2: Repair Plan – We develop a comprehensive repair plan based on our findings.",
+          "Step 3: Repair Implementation – We implement proven repair methods to restore structural integrity.",
+          "Step 4: Inspection and Verification – We ensure that our repairs meet all building codes and regulations."
+        ],
+        "benefits": [
+          "Ensured Safety and Stability",
+          "Prevention of Further Damage",
+          "Increased Home Value",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my home has structural problems?",
+            "answer": "Signs of structural problems include cracks in walls or foundation, uneven floors, and doors or windows that stick."
+          },
+          {
+            "question": "How much does structural repair cost?",
+            "answer": "The cost of structural repair varies depending on the extent of the damage and the repair methods required. We provide free estimates."
+          },
+          {
+            "question": "Do I need a permit for structural repairs?",
+            "answer": "Yes, a permit is typically required for structural repairs. We can assist you with the permitting process."
+          }
+        ]
+      },
+      {
+        "slug": "door-and-window-installations",
+        "name": "Door and Window Installations",
+        "shortDescription": "Enhance your home's energy efficiency and curb appeal with professional door and window installations.",
+        "description": "Old or poorly installed doors and windows can lead to drafts, energy loss, and reduced security. We specialize in installing new doors and windows that improve your home's energy efficiency, enhance its curb appeal, and increase its security. We work with a variety of materials, including wood, vinyl, and fiberglass, ensuring you find the perfect doors and windows to match your style and budget.\n\nOur installation process is meticulous and precise. We carefully remove existing doors and windows, prepare the openings, and install new units with attention to detail. We ensure that all doors and windows are properly sealed and insulated to prevent drafts and energy loss. We also offer a variety of styles, including traditional, modern, and custom designs, to complement your home's architecture.\n\nWe understand the importance of quality installation to ensure the longevity and performance of your doors and windows. We use only the finest materials and techniques to ensure that our installations are durable and weather-resistant. From Ballard bungalows to Queen Anne Victorians, Seattle's Best Carpentry installs doors and windows to perfection.",
+        "process": [
+          "Step 1: Consultation and Selection – We help you choose the best doors and windows for your needs and budget.",
+          "Step 2: Removal and Preparation – We carefully remove existing doors and windows and prepare the openings.",
+          "Step 3: Installation – We install new doors and windows with precision and care.",
+          "Step 4: Sealing and Insulation – We seal and insulate doors and windows to prevent drafts and energy loss."
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Enhanced Curb Appeal",
+          "Increased Security",
+          "Reduced Noise"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can reduce your heating and cooling costs, improve comfort, and reduce noise."
+          },
+          {
+            "question": "What type of door is best for security?",
+            "answer": "Solid core doors with reinforced frames and deadbolt locks are the best choice for security."
+          },
+          {
+            "question": "How long does it take to install new doors or windows?",
+            "answer": "The timeline varies depending on the number of doors or windows being installed, but most installations can be completed in 1-2 days."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation-repair",
+        "name": "Siding Installation & Repair",
+        "shortDescription": "Protect your Seattle home from the elements with expert siding services.",
+        "description": "Seattle's relentless rain and moisture can wreak havoc on your home's siding, leading to rot, mold, and structural damage. We specialize in siding installation and repair, protecting your home from the elements and enhancing its curb appeal. We work with a variety of siding materials, including wood, vinyl, fiber cement, and cedar, ensuring you find the perfect siding to match your style and budget. We understand the unique challenges of working on older Seattle homes, such as matching existing siding styles and dealing with hidden rot.\n\nOur process begins with a thorough inspection to assess the condition of your existing siding and identify any underlying problems. We then develop a comprehensive repair or replacement plan that addresses your specific needs. We use only the finest materials and techniques to ensure that our siding installations and repairs are durable and long-lasting.\n\nWe also handle all necessary permitting and inspections, providing you with peace of mind. We understand the importance of protecting your home from the elements and maintaining its value. From Queen Anne historic homes to modern West Seattle residences, Seattle's Best Carpentry provides siding solutions to perfection.",
+        "process": [
+          "Step 1: Inspection and Assessment – We thoroughly inspect your siding to identify any damage or problems.",
+          "Step 2: Siding Selection – We help you choose the best siding material for your needs and budget.",
+          "Step 3: Installation or Repair – We install new siding or repair existing siding with precision and care.",
+          "Step 4: Finishing Touches – We add trim, paint, and other details to complete your siding project."
+        ],
+        "benefits": [
+          "Protection from the Elements",
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Prevention of Rot and Mold"
+        ],
+        "faq": [
+          {
+            "question": "What type of siding is best for Seattle's climate?",
+            "answer": "Fiber cement siding is a popular choice due to its durability and resistance to rot, insects, and fire. Vinyl siding is also a good option for its low maintenance and affordability."
+          },
+          {
+            "question": "How often should I replace my siding?",
+            "answer": "The lifespan of siding varies depending on the material, but most siding should be replaced every 20-30 years."
+          },
+          {
+            "question": "Can you match existing siding styles?",
+            "answer": "Yes, we can match existing siding styles and colors to create a seamless look."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bellevue",
+        "slug": "bellevue-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry is proud to offer our expert carpentry services to the residents of Bellevue, Washington. Known for its upscale homes primarily built in the 1980s through the 2000s, Bellevue presents unique opportunities for both renovation and new construction projects. We understand the specific needs of Bellevue homeowners and are committed to delivering top-quality craftsmanship that complements the city's sophisticated aesthetic. \n\nOur team is experienced in addressing the carpentry needs specific to the Pacific Northwest climate. With Bellevue experiencing mild, wet winters and persistent rain, we prioritize using weather-resistant materials and techniques to ensure the longevity of our work. Whether you're looking to remodel your kitchen, build a custom deck, or add architectural details to your home, Seattle's Best Carpentry is here to help.",
+        "localContext": "Bellevue boasts a mix of modern architecture and established neighborhoods. Its climate brings mild, wet winters requiring durable, weather-resistant carpentry.",
+        "nearbyAreas": [
+          "Redmond",
+          "Kirkland",
+          "Seattle"
+        ]
+      },
+      {
+        "city": "Redmond",
+        "slug": "redmond-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry extends its exceptional carpentry services to Redmond, Washington, a city renowned for being the home of the Microsoft campus. The housing landscape in Redmond reflects this, with many properties catering to the needs of tech professionals and their families. We are dedicated to providing tailored carpentry solutions that match the modern and functional requirements of Redmond residents. \n\nUnderstanding the Pacific Northwest's weather patterns is crucial, and Redmond experiences mild, wet winters with frequent rainfall. Our team utilizes high-quality, weather-resistant materials and proven construction methods to protect your investment and ensure long-lasting results. From custom cabinetry to structural repairs, Seattle's Best Carpentry is committed to delivering superior craftsmanship and customer satisfaction in Redmond.",
+        "localContext": "Redmond is a hub for technology and innovation, impacting housing styles. The climate presents challenges for exterior carpentry due to persistent rain.",
+        "nearbyAreas": [
+          "Bellevue",
+          "Kirkland",
+          "Sammamish"
+        ]
+      },
+      {
+        "city": "Kirkland",
+        "slug": "kirkland-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry is delighted to serve the residents of Kirkland, Washington, a beautiful city known for its stunning waterfront homes along Lake Washington. We understand the unique challenges and opportunities presented by lakeside properties and are committed to providing carpentry services that enhance the beauty and functionality of your home. From custom docks and decks to weather-resistant siding, we have the expertise to handle all your carpentry needs. \n\nKirkland's climate, characterized by mild, wet winters with persistent rain, requires careful consideration when choosing materials and construction techniques. Our team utilizes durable, weather-resistant materials and proven methods to ensure the longevity of our work and protect your investment. Whether you're looking to remodel your kitchen, build a new deck, or add architectural details to your home, Seattle's Best Carpentry is here to help.",
+        "localContext": "Kirkland features upscale waterfront properties and a climate with wet winters. This necessitates weather-resistant carpentry solutions.",
+        "nearbyAreas": [
+          "Redmond",
+          "Bellevue",
+          "Woodinville"
+        ]
+      },
+      {
+        "city": "Tacoma",
+        "slug": "tacoma-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry proudly serves the residents of Tacoma, Washington, a city with a rich history and diverse architectural landscape. We are particularly familiar with the charming 1900s-20s Craftsman homes found in Tacoma's Stadium District, and we specialize in providing carpentry services that preserve the character and integrity of these historic properties. From restoring original trim to building custom cabinetry, we are committed to delivering top-quality craftsmanship that meets the unique needs of Tacoma homeowners.\n\nTacoma's climate, characterized by mild, wet winters with persistent rain, requires careful consideration when choosing materials and construction techniques. Our team utilizes durable, weather-resistant materials and proven methods to ensure the longevity of our work and protect your investment. Whether you're looking to remodel your kitchen, repair your roof, or add architectural details to your home, Seattle's Best Carpentry is here to help.",
+        "localContext": "Tacoma has many Craftsman homes and a rainy climate, which demands attention to historical accuracy and weather-resistant materials.",
+        "nearbyAreas": [
+          "Seattle",
+          "Federal Way",
+          "Puyallup"
+        ]
+      },
+      {
+        "city": "Bothell",
+        "slug": "bothell-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry is pleased to offer our comprehensive carpentry services to the residents of Bothell, Washington. Known for its suburban developments primarily built in the 1980s and 1990s, Bothell presents a variety of opportunities for renovation and home improvement projects. We understand the specific needs of Bothell homeowners and are committed to delivering top-quality craftsmanship that enhances the value and functionality of your home.\n\nOur team is experienced in addressing the carpentry needs specific to the Pacific Northwest climate. With Bothell experiencing mild, wet winters and persistent rain, we prioritize using weather-resistant materials and techniques to ensure the longevity of our work. Whether you're looking to remodel your kitchen, build a custom deck, or add architectural details to your home, Seattle's Best Carpentry is here to help.",
+        "localContext": "Bothell features suburban developments from the 80s and 90s. The climate is mild and wet, requiring durable carpentry solutions.",
+        "nearbyAreas": [
+          "Woodinville",
+          "Mill Creek",
+          "Kenmore"
+        ]
+      },
+      {
+        "city": "Sammamish",
+        "slug": "sammamish-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry is dedicated to providing exceptional carpentry services to the residents of Sammamish, Washington. As a growing community with a focus on quality living, Sammamish homes often require specialized attention and craftsmanship. We are committed to delivering tailored solutions that meet the unique needs and preferences of Sammamish homeowners. \n\nUnderstanding the Pacific Northwest's weather patterns is essential, and Sammamish experiences mild, wet winters with frequent rainfall. Our team utilizes high-quality, weather-resistant materials and proven construction methods to protect your investment and ensure long-lasting results. From custom cabinetry to structural repairs, Seattle's Best Carpentry is committed to delivering superior craftsmanship and customer satisfaction in Sammamish.",
+        "localContext": "Sammamish is a growing residential area needing precise craftsmanship. The wet climate necessitates weather-resistant carpentry.",
+        "nearbyAreas": [
+          "Redmond",
+          "Issaquah",
+          "North Bend"
+        ]
+      },
+      {
+        "city": "Issaquah",
+        "slug": "issaquah-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry is proud to extend our expert carpentry services to Issaquah, Washington. Known for its natural beauty and family-friendly atmosphere, Issaquah boasts a diverse range of homes, from established neighborhoods to newer developments. We are committed to providing carpentry solutions that enhance the beauty, functionality, and value of your Issaquah home.\n\nIssaquah experiences mild, wet winters with persistent rain, making it crucial to choose weather-resistant materials and construction techniques. Our team is experienced in addressing these challenges and utilizes proven methods to ensure the longevity of our work. Whether you're looking to remodel your kitchen, build a custom deck, or add architectural details to your home, Seattle's Best Carpentry is here to help.",
+        "localContext": "Issaquah has a mix of old and new homes with a rainy climate. Weather-resistant carpentry is crucial for longevity.",
+        "nearbyAreas": [
+          "Sammamish",
+          "Renton",
+          "North Bend"
+        ]
+      },
+      {
+        "city": "Kenmore",
+        "slug": "kenmore-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry is delighted to offer our comprehensive carpentry services to the residents of Kenmore, Washington. Nestled on the north shore of Lake Washington, Kenmore offers a mix of residential neighborhoods and natural beauty. We are committed to providing carpentry solutions that enhance the value and functionality of Kenmore homes, while respecting the surrounding environment.\n\nKenmore's climate, characterized by mild, wet winters, requires careful consideration when choosing materials and construction techniques. Our team utilizes durable, weather-resistant materials and proven methods to ensure the longevity of our work and protect your investment. Whether you're looking to remodel your kitchen, build a new deck, or add architectural details to your home, Seattle's Best Carpentry is here to help.",
+        "localContext": "Kenmore's lakeside location and wet winters require carpentry that withstands moisture and weather.",
+        "nearbyAreas": [
+          "Bothell",
+          "Lake Forest Park",
+          "Kirkland"
+        ]
+      },
+      {
+        "city": "Shoreline",
+        "slug": "shoreline-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry is pleased to offer its carpentry services to the residents of Shoreline, Washington. With its mix of established neighborhoods and proximity to Seattle, Shoreline presents a variety of carpentry needs, from home renovations to new construction projects. We are committed to providing high-quality craftsmanship and exceptional customer service to Shoreline homeowners.\n\nShoreline experiences mild, wet winters, making it crucial to choose weather-resistant materials and construction techniques. Our team is experienced in addressing these challenges and utilizes proven methods to ensure the longevity of our work. Whether you're looking to remodel your kitchen, build a custom deck, or add architectural details to your home, Seattle's Best Carpentry is here to help.",
+        "localContext": "Shoreline's proximity to Seattle and rainy climate require durable and skilled carpentry services.",
+        "nearbyAreas": [
+          "Lake Forest Park",
+          "Edmonds",
+          "Seattle"
+        ]
+      },
+      {
+        "city": "Woodinville",
+        "slug": "woodinville-wa",
+        "state": "WA",
+        "content": "Seattle's Best Carpentry is proud to offer our expert carpentry services to the residents of Woodinville, Washington, known for its wineries and beautiful residential areas. We understand the unique needs of Woodinville homeowners and are committed to delivering top-quality craftsmanship that complements the city's distinctive character.\n\nWoodinville's climate, characterized by mild, wet winters, requires careful consideration when choosing materials and construction techniques. Our team utilizes durable, weather-resistant materials and proven methods to ensure the longevity of our work and protect your investment. Whether you're looking to remodel your kitchen, build a new deck, or add architectural details to your home to entertain guests, Seattle's Best Carpentry is here to help.",
+        "localContext": "Woodinville's wineries and residential areas require carpentry that blends functionality with aesthetic appeal, especially given the wet winters.",
+        "nearbyAreas": [
+          "Bothell",
+          "Redmond",
+          "Kirkland"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Custom Deck",
+        "text": "We hired Seattle's Best Carpentry to build a new deck in our backyard, and we couldn't be happier with the results! The team was professional, efficient, and the quality of their work is outstanding. They helped us design a deck that perfectly fits our needs and our backyard. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Kitchen Remodel",
+        "text": "Seattle's Best Carpentry remodeled our kitchen, and the transformation is amazing. They were very helpful in the design process and patient with our many questions. There were a couple of minor delays, but they communicated well and made sure everything was completed to our satisfaction. We love our new kitchen!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Custom Cabinets",
+        "text": "I needed custom cabinets built for my home office, and Seattle's Best Carpentry did an excellent job. The cabinets are beautiful, functional, and exactly what I wanted. The team was professional, courteous, and paid attention to every detail. I would definitely hire them again.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Structural Repair",
+        "text": "We had some structural issues in our basement, and Seattle's Best Carpentry was able to diagnose and repair the problem quickly and efficiently. They were very knowledgeable and explained everything clearly. We feel much safer knowing that our home is structurally sound.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Jennifer P.",
+        "rating": 4,
+        "service": "Window Installation",
+        "text": "Seattle's Best Carpentry installed new windows in our home, and we've already noticed a difference in our energy bills. The installation process was smooth and professional, and the team was very respectful of our property. We're very happy with the results!",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Siding Repair",
+        "text": "The siding on my house was damaged after a storm. Seattle's Best Carpentry came out and repaired it promptly and professionally. They matched the existing siding perfectly, and you can't even tell there was any damage. I was very impressed with their service!",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Seattle's Best Carpentry | Local Carpenter",
+        "description": "Expert carpentry services in Seattle, WA. Custom decks, remodels, cabinets. Serving Seattle, Bellevue, Redmond, Tacoma."
+      },
+      "about": {
+        "title": "About Seattle's Best Carpentry",
+        "description": "Learn about our Seattle carpentry company, our values, and our commitment to quality craftsmanship and customer satisfaction."
+      },
+      "services": {
+        "title": "Seattle's Best Carpentry Services",
+        "description": "Comprehensive carpentry services in Seattle, WA. Decks, remodels, cabinets, structural repairs, siding, and more."
+      },
+      "contact": {
+        "title": "Contact Seattle's Best Carpentry",
+        "description": "Contact us for a free consultation and estimate for your carpentry project in Seattle, WA and surrounding areas."
+      },
+      "reviews": {
+        "title": "Seattle's Best Carpentry Reviews",
+        "description": "Read what our satisfied customers have to say about our carpentry services in Seattle, WA. View testimonials and ratings."
+      },
+      "service-areas": {
+        "title": "Seattle's Best Carpentry Service Areas",
+        "description": "Find out if we serve your area in Seattle, WA and the surrounding cities. We offer carpentry services in Bellevue, Redmond, and more."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-decks-patios": "/images/service-custom-decks-patios.webp",
+      "kitchen-bath-remodels": "/images/service-kitchen-bath-remodels.webp",
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "structural-repairs": "/images/service-structural-repairs.webp",
+      "door-and-window-installations": "/images/service-door-and-window-installations.webp",
+      "siding-installation-repair": "/images/service-siding-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "custom-decks-patios": {
+        "src": "/images/service-custom-decks-patios.webp",
+        "srcset": "/images/service-custom-decks-patios-400w.webp 400w, /images/service-custom-decks-patios-800w.webp 800w, /images/service-custom-decks-patios-1200w.webp 1200w, /images/service-custom-decks-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "kitchen-bath-remodels": {
+        "src": "/images/service-kitchen-bath-remodels.webp",
+        "srcset": "/images/service-kitchen-bath-remodels-400w.webp 400w, /images/service-kitchen-bath-remodels-800w.webp 800w, /images/service-kitchen-bath-remodels-1200w.webp 1200w, /images/service-kitchen-bath-remodels.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "structural-repairs": {
+        "src": "/images/service-structural-repairs.webp",
+        "srcset": "/images/service-structural-repairs-400w.webp 400w, /images/service-structural-repairs-800w.webp 800w, /images/service-structural-repairs-1200w.webp 1200w, /images/service-structural-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-and-window-installations": {
+        "src": "/images/service-door-and-window-installations.webp",
+        "srcset": "/images/service-door-and-window-installations-400w.webp 400w, /images/service-door-and-window-installations-800w.webp 800w, /images/service-door-and-window-installations-1200w.webp 1200w, /images/service-door-and-window-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation-repair": {
+        "src": "/images/service-siding-installation-repair.webp",
+        "srcset": "/images/service-siding-installation-repair-400w.webp 400w, /images/service-siding-installation-repair-800w.webp 800w, /images/service-siding-installation-repair-1200w.webp 1200w, /images/service-siding-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

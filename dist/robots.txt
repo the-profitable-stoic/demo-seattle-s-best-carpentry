@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-seattle-s-best-carpentry.dream-surge.com/sitemap-index.xml
